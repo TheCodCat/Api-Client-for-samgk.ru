@@ -23,7 +23,7 @@ dotnet pack
 
 Создайте экземпляр класса для работы с библотекой
 ```C#
-var api = new ClientSamgkApi();
+var api = new ClientSamgkApi(); //Экземпляр
 ```
 # Пример использования методов
 
